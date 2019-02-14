@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:rowCount="5"
+    android:columnCount="3"
+
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <ImageView android:src="@drawable/biologia"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:src="@drawable/matematica"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"/>
+    <ImageView android:src="@drawable/quimica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="10dp"
+        />
+
+    <ImageView android:src="@drawable/noct"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:src="@drawable/biologia"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"/>
+    <ImageView android:src="@drawable/titulo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="10dp"/>
+
+    <ImageView android:src="@drawable/fisica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:src="@drawable/genetica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"/>
+    <ImageView android:src="@drawable/biologia"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="10dp"/>
+
+    <ImageView android:src="@drawable/computacion"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:src="@drawable/biologia"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"/>
+    <ImageView android:src="@drawable/matematica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="10dp"/>
+
+    <ImageView android:src="@drawable/biologia"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:src="@drawable/quimica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"/>
+    <ImageView android:src="@drawable/fisica"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="10dp"/>
+</GridLayout>
